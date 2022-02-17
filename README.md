@@ -1,4 +1,4 @@
-<h1> <a href="https://young-lowlands-88940.herokuapp.com/"> Personal blog </a> </h1>
+<h1> <a href="https://young-lowlands-88940.herokuapp.com/"> 📝 Personal blog </a> </h1>
 <h2> This is a personal blog created using: </h2>
 <ul>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
