@@ -17,4 +17,4 @@ The application can:
 <img src="https://github.com/navsheelbiral/Personal-blog/blob/master/r-img/2.png" />
 <h4> 👉🏻 Compose blogs and publish them. </h4>
 <img src="https://github.com/navsheelbiral/Personal-blog/blob/master/r-img/3.png" />
-<h3> The application is hosted at: https://young-lowlands-88940.herokuapp.com/ </h3>
+<h3> The application is hosted <a href="https://young-lowlands-88940.herokuapp.com/"> here. </a>  </h3>
